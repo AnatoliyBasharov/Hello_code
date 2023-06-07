@@ -1,0 +1,15 @@
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\bin\Debug\net6.0\example_hello_world.exe
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\bin\Debug\net6.0\example_hello_world.deps.json
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\bin\Debug\net6.0\example_hello_world.runtimeconfig.json
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\bin\Debug\net6.0\example_hello_world.dll
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\bin\Debug\net6.0\example_hello_world.pdb
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\obj\Debug\net6.0\example_hello_world.csproj.AssemblyReference.cache
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\obj\Debug\net6.0\example_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\obj\Debug\net6.0\example_hello_world.AssemblyInfoInputs.cache
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\obj\Debug\net6.0\example_hello_world.AssemblyInfo.cs
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\obj\Debug\net6.0\example_hello_world.csproj.CoreCompileInputs.cache
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\obj\Debug\net6.0\example_hello_world.dll
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\obj\Debug\net6.0\refint\example_hello_world.dll
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\obj\Debug\net6.0\example_hello_world.pdb
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\obj\Debug\net6.0\example_hello_world.genruntimeconfig.cache
+C:\Users\rexon\OneDrive\Рабочий стол\Lesson1C#\example_hello_world\obj\Debug\net6.0\ref\example_hello_world.dll
